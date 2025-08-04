@@ -96,4 +96,5 @@ X-SAFEPROTECTION: enNlYW5vb2Zjb3Vyc2U=
 
 This step was critical for extracting the email and completing the challenge.
 
+---
 💀 🏴 HAPPY HACKING!
